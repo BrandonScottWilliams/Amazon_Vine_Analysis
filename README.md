@@ -16,7 +16,7 @@ The analysis revealed that there were 613 vine reviews from paid users and 64968
 
 The analysis revealed that there were 222 paid five star reviews and 30543 unpaid 5 star reviews
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-* 
+
 ![image](https://user-images.githubusercontent.com/99148657/177041060-cc690e83-97b7-4cfa-9e25-2c2e6f997a09.png)
 
 ![image](https://user-images.githubusercontent.com/99148657/177041067-94c7e0b7-9465-4680-a066-108cff7d6678.png)
